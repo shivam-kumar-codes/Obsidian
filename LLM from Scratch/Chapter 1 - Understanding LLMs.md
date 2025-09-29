@@ -1,4 +1,6 @@
 
+# Understanding LLMs  
+
 - What does **"understanding"** mean for LLMS ?  
 	-> LLMs don't think like humans -> no human-like consciousness.  
 	-> They "understand" only in the sense thaty they can generate meaningful, coherent text. 
@@ -22,4 +24,5 @@
 	   - Improved data privacy  
 
 [[chapter 1 - different fields relationship]]  
+
 
