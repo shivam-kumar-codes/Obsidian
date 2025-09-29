@@ -23,6 +23,6 @@
 	   - Better task accuracy  
 	   - Improved data privacy  
 
-[[chapter 1 - different fields relationship]]  
+![[chapter 1 - different fields relationship]]  
 
 
