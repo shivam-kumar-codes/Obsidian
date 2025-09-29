@@ -21,5 +21,5 @@
 	   - Better task accuracy
 	   - Improved data privacy
 
-[[Drawing 2025-09-29 20.03.04.excalidraw]]
+[[chapter 1 - different fields relationship]]
 
