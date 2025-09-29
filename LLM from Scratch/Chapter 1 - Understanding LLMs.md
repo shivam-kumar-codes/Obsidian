@@ -24,7 +24,8 @@
 	   - Improved data privacy  
 
 
-![[chapter 1 - different fields relationship]]  
+
+![[Pasted image 20250929205821.png]]
 
 
 ##  - Training Process
@@ -41,13 +42,14 @@
 		ii) Classification fine-tuning : text labeled into categories. e.g., helpful/not helpful. 
 
 
+![[Pasted image 20250929205923.png]]
+
 ## - Transformer Architecture
 
 - Encoder : Processes Input text into numerical vectors (context representation).    
 - Decoder : Generates Output text from vectors.  
-
-		Example: Summarization -> Encoder compresses meaning, 
-					Decoder produces summary. 
+	- Example: Summarization -> Encoder compresses meaning, 
+					      Decoder produces summary. 
 
 -  Model Examples:  
 	-  BERT : 
