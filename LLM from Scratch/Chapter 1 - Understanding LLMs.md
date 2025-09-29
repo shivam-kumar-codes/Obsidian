@@ -23,6 +23,21 @@
 	   - Better task accuracy  
 	   - Improved data privacy  
 
+
 ![[chapter 1 - different fields relationship]]  
 
 
+## Training Process
+
+1. **Pretraining**  
+	 -  Trained on row, unlabeled text.   
+	 -  Learns general language patterns.  
+	 -  Uses self-supervised learning (labels are created from data itself) 
+
+2. **Fine-Tuning**
+	-  Further Training for specialization
+	-  Types:-
+		i) Instruction fine-tuning : Paired prompts & answers. e.g., summarize text. 
+		ii) Classification fine-tuning : text labeled into categories. e.g., helpful/not helpful. 
+
+	
