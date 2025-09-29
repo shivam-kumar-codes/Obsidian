@@ -1,12 +1,12 @@
 
 - What does **"understanding"** mean for LLMS ?  
-	-> LLMs don't think like humans -> no human-like consciousness.
+	-> LLMs don't think like humans -> no human-like consciousness.  
 	-> They "understand" only in the sense thaty they can generate meaningful, coherent text. 
 
--  why are LLMs powerful ?
-	-> Built on **Transformer** architecture. 
-	-> Trained on huge amounts of text -> learn patterns, context, and meaning. 
-	-> LLM = type of neural network that can read, write, reply like a human. 
+-  why are LLMs powerful ?  
+	-> Built on **Transformer** architecture.  
+	-> Trained on huge amounts of text -> learn patterns, context, and meaning.    
+	-> LLM = type of neural network that can read, write, reply like a human.
 
 -  Parameters
 	-> Parameters = adjustable values in training
