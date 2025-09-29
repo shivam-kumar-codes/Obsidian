@@ -1,5 +1,5 @@
 
-- What does **"understanding"** mean for LLMS ?
+- What does **"understanding"** mean for LLMS ?  
 	-> LLMs don't think like humans -> no human-like consciousness.
 	-> They "understand" only in the sense thaty they can generate meaningful, coherent text. 
 
